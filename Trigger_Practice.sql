@@ -85,6 +85,3 @@ BEGIN
  rollback transaction 
  end
  end
-
- update produc set stockQuantity=8 where id=4
- select *from Produc
